@@ -1,2 +1,2 @@
 # capstone
-IMB project
+IMB Data Science Project
